@@ -1,5 +1,5 @@
-### Ola, Eu sou Marcio Mazeu 👋
-Eu sou um entusiasta de tecnologia e um desenvolvedor web full stack. Sou interessado em tecnologia, filmes, livros de fantasia, passeios na natureza e gosto de aprender coisas novas. Atualmente interessado em aprender sobre desenvolvimento de jogos com Unity.
+### Hello, I am Marcio Mazeu 👋
+I am a technology enthusiast and full stack web developer. I am interested in technology, movies, fantasy books, nature walks and like to learn new things. Currently interested in learning about game development with Unity.
 
 
 ## Contact
@@ -12,7 +12,7 @@ Eu sou um entusiasta de tecnologia e um desenvolvedor web full stack. Sou intere
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marciomazeu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Tecnologias usadas no dia a dia:
+## Technologies used in everyday life:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
